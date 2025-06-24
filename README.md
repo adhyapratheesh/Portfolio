@@ -1,4 +1,4 @@
-# 🌐 Simple Portfolio Website (Practice Project)
+# 🌐 Simple Portfolio Website 
 
 This is a **basic one-page personal portfolio website** created as a **practice project** to showcase my profile, projects, and contact information using only **HTML** and **CSS**.
 
